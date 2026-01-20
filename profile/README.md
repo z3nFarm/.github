@@ -60,7 +60,7 @@
 
 Скачайте актуальные внешние библиотеки и поместите их в директорию ZennoPoster:
 
-1. **Скачать**: [ExternalAssemblies](https://github.com/z3nFarm/z3nCore-full/tree/master/ExternalAssemblies)
+1. **Скачать**: [ExternalAssemblies](https://github.com/z3nFarm/z3n/tree/master/ZennoLab/ExternalAssemblies)
 2. **Путь установки**:
 ```
 {диск}:\Program Files\ZennoLab\RU\ZennoPoster Pro V7\7.{версия}\Progs\ExternalAssemblies\
@@ -207,7 +207,7 @@ Follow the comprehensive setup guide: [Database Setup Instructions](https://z3n-
 
 Download the latest external assemblies and place them in your ZennoPoster directory:
 
-1. **Download**: [ExternalAssemblies](https://github.com/z3nFarm/z3nCore-full/tree/master/ExternalAssemblies)
+1. **Download**: [ExternalAssemblies](https://github.com/z3nFarm/z3n/tree/master/ZennoLab/ExternalAssemblies)
 2. **Installation path**:
 ```
 {drive}:\Program Files\ZennoLab\RU\ZennoPoster Pro V7\7.{version}\Progs\ExternalAssemblies\
